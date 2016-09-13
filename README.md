@@ -1,2 +1,2 @@
 # .dotfiles
-Repository with all neccesary configuration files including (g)vim, eclipse, bash(rc) ect.
+Repository with all necessary configuration files including (g)vim, eclipse, bash(rc) etc.
