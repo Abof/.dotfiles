@@ -19,7 +19,7 @@ First put skin in "additional stuff" config directory; eg: `/home/abof/.local/sh
 Second: refer to that skin in main mc configuration file - `ini`; in right place ofc:
 ```
 ...
-skin=skin-name.ini
+skin=skin-name-without-ini-suffix
 ...
 ``` 
 
