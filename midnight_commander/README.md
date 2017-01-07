@@ -1,4 +1,6 @@
 # Configuration elements
+**Disclaimer:** works with *GNU Midnight Commander 4.8.15*.
+
 Configuration is based on general `ini` mc file and folders where mc keeps macros or skins. It depends on you which "scope" you choose (user/global).
 
 First of all run `mc -F` to check out configs locations; eg.
