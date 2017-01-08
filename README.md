@@ -11,3 +11,9 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 ```
+
+## midnight_commander
+Files for configurating [Midnight Commander](https://en.wikipedia.org/wiki/Midnight_Commander) - *"free cross-platform orthodox file manager"*.
+
+## .vimrc
+Config file for [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor)) - text editor program for Unix. Place this file in your home (`~`) directory for user-scope config; for global config place it in `/etc/vimrc` or `/etc/vim/vimrc`.
